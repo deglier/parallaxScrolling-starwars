@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deglier/parallaxScrolling-starwars.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Deglier Amorim",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.11.1",
