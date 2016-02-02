@@ -1,0 +1,16 @@
+{
+  "name": "parallax-starwars",
+  "version": "1.0.0",
+  "description": "The Parallax scrolling from a galaxy far, far away",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
